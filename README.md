@@ -1,20 +1,16 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# TrueSpark Electric V2 | Modern Electrical Solutions
 
-# Run and deploy your AI Studio app
+Welcome to the official repository for **TrueSpark Electric V2**. This project is a premium digital platform designed for a professional electrical services company, emphasizing safety, efficiency, and modern power infrastructure.
 
-This contains everything you need to run your app locally.
+## ✨ Key Features
+* **Energetic & Clean Design:** A high-contrast visual aesthetic using "electric" blue and slate tones for a professional feel.
+* **Service-Driven Layout:** Optimized for showcasing residential wiring, commercial maintenance, and smart home installations.
+* **Rapid Deployment:** Built with Vite to ensure the website loads instantly—perfect for emergency service calls.
+* **Mobile-First UX:** Fully responsive design, ensuring customers can reach a technician from any device.
 
-View your app in AI Studio: https://ai.studio/apps/eae9176a-83eb-46c2-b879-7e8fb8ddad84
+## 🚀 Live Demo
+Power up here: []
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+*Designed & Developed by Muhammad Sufyan
+*Digital Strategist & Web Designer*
